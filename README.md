@@ -53,15 +53,6 @@ SonarQube • Trivy • Azure Policy • DevSecOps • Policy-as-Code
 **SRE Practices**  
 Incident Response • SLO Design • Runbook Development • Blameless Postmortems
 
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/satyampriyam](https://linkedin.com/in/satyampriyam)
-- **Email:** your-email@example.com
-- **GitHub:** [@satyampriyam](https://github.com/satyampriyam)
-
----
 
 ## 📌 Note
 All samples use sanitized data with generic service names to protect confidential information. Examples are based on real production scenarios with identifying details removed.
